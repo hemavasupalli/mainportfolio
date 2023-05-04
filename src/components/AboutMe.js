@@ -7,7 +7,7 @@ const AboutMe = () => {
   
       <h1 className='p-3 text-2xl text-center text-orange-600 lg:ml-24 lg:pb-10 lg:text-4xl animate-pulse'>Find Me On</h1>
 
-      <ul className='flex flex-wrap  justify-center mt-5 lg:ml-[53rem] lg:justify-start'>
+      <ul className='flex flex-wrap  justify-center mt-5 lg:ml-[44rem] lg:justify-start'>
 
         <li className='p-2 mb-5 lg:mb-0 lg:mr-5'>
           <a href='https://github.com/hemavasupalli' target="_blank" rel="noreferrer">
