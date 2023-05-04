@@ -13,9 +13,9 @@ const Skills =()=> {
       <div className="h-[44rem]   ">
              
 
-             <h1 className='p-3 mt-20 text-xl font-bold text-center md:text-xl lg:text-3xl pt-28 lg:mt-20 hover:animate-pulse'><span className='text-orange-600'>SkillSet</span></h1>
+             <h1 className='p-3 mt-20 text-xl font-bold text-center md:text-xl lg:text-3xl pt-28 mt-3 hover:animate-pulse'><span className='text-orange-600'>SkillSet</span></h1>
              
-          <div className="grid items-center grid-cols-4 gap-1 lg:mt-24">
+          <div className="grid items-center grid-cols-4 gap-1 ">
            
               <Skill   source="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="The logo icon for react" title="React"/>
               <Skill source="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="The logo icon for HTML 5" title="HTML 5"/>
